@@ -1,8 +1,3 @@
-
-Coaker, Agnes (TRADE)
-12:24 PM (5 minutes ago)
-to me
-
 from pathlib import Path
 
  
